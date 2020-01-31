@@ -1,0 +1,10 @@
+C:\Users\Ali\source\repos\SınavButton\SınavButton\bin\Debug\SınavButton.exe.config
+C:\Users\Ali\source\repos\SınavButton\SınavButton\bin\Debug\SınavButton.exe
+C:\Users\Ali\source\repos\SınavButton\SınavButton\bin\Debug\SınavButton.pdb
+C:\Users\Ali\source\repos\SınavButton\SınavButton\obj\Debug\SınavButton.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\SınavButton\SınavButton\obj\Debug\SınavButton.Form1.resources
+C:\Users\Ali\source\repos\SınavButton\SınavButton\obj\Debug\SınavButton.Properties.Resources.resources
+C:\Users\Ali\source\repos\SınavButton\SınavButton\obj\Debug\SınavButton.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\SınavButton\SınavButton\obj\Debug\SınavButton.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\SınavButton\SınavButton\obj\Debug\SınavButton.exe
+C:\Users\Ali\source\repos\SınavButton\SınavButton\obj\Debug\SınavButton.pdb

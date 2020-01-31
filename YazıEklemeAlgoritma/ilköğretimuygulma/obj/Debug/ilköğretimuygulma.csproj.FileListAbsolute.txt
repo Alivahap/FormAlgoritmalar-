@@ -1,0 +1,10 @@
+C:\Users\Ali\source\repos\ilköğretimuygulma\ilköğretimuygulma\bin\Debug\ilköğretimuygulma.exe.config
+C:\Users\Ali\source\repos\ilköğretimuygulma\ilköğretimuygulma\bin\Debug\ilköğretimuygulma.exe
+C:\Users\Ali\source\repos\ilköğretimuygulma\ilköğretimuygulma\bin\Debug\ilköğretimuygulma.pdb
+C:\Users\Ali\source\repos\ilköğretimuygulma\ilköğretimuygulma\obj\Debug\ilköğretimuygulma.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\ilköğretimuygulma\ilköğretimuygulma\obj\Debug\ilköğretimuygulma.Form1.resources
+C:\Users\Ali\source\repos\ilköğretimuygulma\ilköğretimuygulma\obj\Debug\ilköğretimuygulma.Properties.Resources.resources
+C:\Users\Ali\source\repos\ilköğretimuygulma\ilköğretimuygulma\obj\Debug\ilköğretimuygulma.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\ilköğretimuygulma\ilköğretimuygulma\obj\Debug\ilköğretimuygulma.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\ilköğretimuygulma\ilköğretimuygulma\obj\Debug\ilköğretimuygulma.exe
+C:\Users\Ali\source\repos\ilköğretimuygulma\ilköğretimuygulma\obj\Debug\ilköğretimuygulma.pdb
